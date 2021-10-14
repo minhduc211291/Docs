@@ -1,0 +1,12 @@
+Version=2.0
+PublicKey=a7BNGMtPebZYcr81
+ConnectionProfile = Numerix {
+    Active=True
+    Urls=https://connect.numerix.com:80/Ils?target=licenseSrv,http://connect2.numerix.com:80/Ils?target=licenseSrv
+}
+
+ProductLicense = NxExcel.Numerix.Staff.CAExcel {
+    User = 9919D-D6D6-4024-C212C
+    Type = nodelocked
+}
+
